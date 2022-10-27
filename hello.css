@@ -1,0 +1,25 @@
+.pic {
+    height: 180px;
+    border-radius: 50%;
+    border: 2px solid grey;
+}
+
+body{
+    background-color: #EAF6F6;
+}
+
+/* hr{
+    border-style: dotted none none;
+    border-color: rgb(149, 148, 148);
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+} */
+
+h1{
+    color: #379f9f;
+}
+
+h3{
+    color: #5cc1c1;
+}
